@@ -5,7 +5,7 @@
 using namespace std;
 
 //Это пример контейнера
-class IntArray
+class IntegerArray
 {
 private:
     int m_length{};
@@ -14,10 +14,9 @@ private:
 };
 int main(){
 
-/*
-   //Это первый блок. Расскоментируй только его
+
    assert(false);
-   cout << "Этот текст не выведится, потому что в assert false" << endl;
+   cout << endl;
 */
 
 
